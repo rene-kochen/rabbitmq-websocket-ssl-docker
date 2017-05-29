@@ -1,0 +1,1 @@
+rabbitmq-websocket-ssl-docker
